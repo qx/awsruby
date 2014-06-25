@@ -4,7 +4,7 @@
     <data-source source="LOCAL" name="Rails awsruby: development" uuid="80e129d9-6c82-41f5-b9fe-d98f797873bf">
       <driver-ref>mysql</driver-ref>
       <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://127.0.0.1/db/development.mysql2</jdbc-url>
+      <jdbc-url>jdbc:mysql://127.0.0.1/test</jdbc-url>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails awsruby: test" uuid="042a0829-5a4b-4833-8997-07241231f19d">
