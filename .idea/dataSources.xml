@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="872794942">
+    <data-source source="LOCAL" name="Rails awsruby: development" uuid="80e129d9-6c82-41f5-b9fe-d98f797873bf">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/db/development.mysql2</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails awsruby: test" uuid="042a0829-5a4b-4833-8997-07241231f19d">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/db/test.mysql2</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails awsruby: production" uuid="d28f4ccc-d81b-4c38-b43d-a3a10583e18c">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://0.0.0.0:5434/other_user</jdbc-url>
+      <user-name>other_user</user-name>
+      <user-password>df98df98df98df98df98df98df98df98</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails awsruby: cucumber" uuid="88f059ad-c9ad-4f23-a30a-6f3de46e5017">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://127.0.0.1/db/test.mysql2</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

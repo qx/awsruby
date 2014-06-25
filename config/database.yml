@@ -20,9 +20,12 @@ test: &test
 
 production:
   adapter: postgresql
-  database: db/production.postgresql
   pool: 5
   timeout: 5000
-
+  database: other_user
+  username: other_user
+  password: 22222222
+  host: 0.0.0.0
+  port: 5434
 cucumber:
   <<: *test
