@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails awsruby: development" uuid="2614524f-4713-4062-a4a3-c6501c34225b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails awsruby: test" uuid="63a508b9-9384-4929-b255-d6bc50a37ab0">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails awsruby: production" uuid="74d602f2-adb6-47aa-b2c2-cd93a434ef2b">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails awsruby: cucumber" uuid="d38f259b-5f28-4b00-b915-0a4a7e3745aa">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
