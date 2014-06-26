@@ -10,7 +10,7 @@ gem 'bcrypt-ruby', '3.1.2'
 gem 'faker', '1.1.2'
 gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.9'
-gem 'mysql2', '~> 0.3.16'
+# gem 'mysql2', '~> 0.3.16'
 gem 'unicorn-rails', '~> 2.1.1'
 group :development, :test do
   gem 'sqlite3', '1.3.8'
